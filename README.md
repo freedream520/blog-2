@@ -9,3 +9,5 @@
 ## Vue.js入门教程
 
 1. [Vue.js入门教程-指令](https://github.com/WEBING123/blog/issues/1)
+
+2. [Vue.js入门教程-methods](https://github.com/WEBING123/blog/issues/2)
