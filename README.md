@@ -8,4 +8,4 @@
 
 ## Vue.js入门教程
 
-1. Vue.js入门教程-组件数据传递
+1. [Vue.js入门教程-指令](https://github.com/WEBING123/blog/issues/1)
