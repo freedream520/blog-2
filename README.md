@@ -11,3 +11,7 @@
 1. [Vue.js入门教程-指令](https://github.com/WEBING123/blog/issues/1)
 
 2. [Vue.js入门教程-methods](https://github.com/WEBING123/blog/issues/2)
+
+3. [Vue.js入门教程-过滤器](https://github.com/WEBING123/blog/issues/3)
+
+4. [Vue.js入门教程-组件注册](https://github.com/WEBING123/blog/issues/4)
