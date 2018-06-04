@@ -8,7 +8,7 @@
 
 ## 前端面试题
 
-1. [前端面试题-BFC(块格式化上下文)](https://github.com/WEBING123/blog/issues/5)
+1. [前端面试题-BFC（块格式化上下文）](https://github.com/WEBING123/blog/issues/5)
 
 2. [前端面试题-clearfix（清除浮动）](https://github.com/WEBING123/blog/issues/6)
 
